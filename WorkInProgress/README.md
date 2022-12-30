@@ -32,7 +32,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Personalizando o Banco de Dados com Índices e Procedures](https://web.dio.me/lab/personalizando-o-banco-de-dados-com-indices-e-procedures/learning/ceef74fb-017c-49ee-8d3c-3bbcde4337ab)[Entendendo o Desafio](https://web.dio.me/lab/personalizando-o-banco-de-dados-com-indices-e-procedures/learning/b6a20d7f-7457-4ae1-9fb0-952eacaa8a88)
+- [Personalizando o Banco de Dados com Índices e Procedures](https://web.dio.me/lab/personalizando-o-banco-de-dados-com-indices-e-procedures/learning/ceef74fb-017c-49ee-8d3c-3bbcde4337ab)
+- [Entendendo o Desafio](https://web.dio.me/lab/personalizando-o-banco-de-dados-com-indices-e-procedures/learning/b6a20d7f-7457-4ae1-9fb0-952eacaa8a88)
 
 
 
